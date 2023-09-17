@@ -1,11 +1,8 @@
-# Welcome to your Jupyter Book
+# The cat cali (一只三色印花猫)
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This is my story. I hope you enjoy reading it.
 
-Check out the content pages bundled with this sample book to see more.
+这里讲的是我的故事，希望你喜欢。
 
 ```{tableofcontents}
 ```
