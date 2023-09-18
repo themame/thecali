@@ -1,4 +1,4 @@
-# 2. I like my new home. (我喜欢我的新家。)
+# 2. My new home (我的新家)
 
 ![Thi is my new home](images/2.jpg)
 
