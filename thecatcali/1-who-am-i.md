@@ -1,4 +1,4 @@
-# 1. Where am I from? (我从哪里来？)
+# 1. I have no home (我没有家)
 
 ![Thi is me](images/1.jpg)
 

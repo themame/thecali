@@ -1,4 +1,4 @@
-# 3. I have a name! (我有了名字!)
+# 3. My name (我的名字)
 
 ![Thi is my new home](images/3.jpg)
 
@@ -12,15 +12,15 @@ After a while, we started walking in the opposite direction, toward the west, wh
 
 On our way back home, we met a neighbor who stopped to chat with the kind-hearted lady and introduced herself. She said she had been watching me walking with the kind-hearted lady on the green area and that I was such a cute little cat. She also had a cat, a gray one. I stopped to listen to them talking, and I saw the neighbor's cat inside the house, watching us from the windowsill. The neighbor asked the kind-hearted lady for my name, and I didn't have a name yet, so how would the kind-hearted lady respond?
 
-"She's called Bell," the kind-hearted lady said.
+"She's called lingling," the kind-hearted lady said.
 
 Oh, like the sound of a bell. I guess it's because Mr. Bell brought me here.
 
-"She likes to follow Bell around, so I call her Bell," the kind-hearted lady explained to the neighbor.
+"She likes to follow my bell around, so I call her lingling," the kind-hearted lady explained to the neighbor.
 
-From that day on, I had a name. My name was Bell, or in Chinese, "铃灵" (Ling Ling).
+From that day on, I had a name. My name is lingling, or in Chinese, "铃灵" (Ling Ling).
 
-I liked the sound of bells, so I was called Bell.
+I liked the sound of bells, I like my name.
 
 Starting today, I go outside every day. Sometimes, I play on the green area in front of the house, and sometimes in the backyard's green area. After work, if the weather is good, the kind-hearted lady takes me to the large green area, and we watch the sunset together.
 
